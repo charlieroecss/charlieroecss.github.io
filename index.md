@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Home
+permalink: /home/
 ---
 
 ## Home

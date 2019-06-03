@@ -11,11 +11,11 @@ permalink: /about.html
 ## Education
 
 ### Overview
-_George Mason University, Fairfax, VA_  
+**George Mason University, Fairfax, VA**  
 *MA Computational Social Science, May 2019*  
 *GPA 3.97*
 
-_James Madison University, Harrisonburg, VA_  
+**James Madison University, Harrisonburg, VA**  
 *BA Sociology, May 2009*  
 *GPA 3.48*
 

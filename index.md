@@ -1,7 +1,4 @@
----
-layout: post
-title: Home
----
+
 
 ## Welcome to GitHub Pages
 

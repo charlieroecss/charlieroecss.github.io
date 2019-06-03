@@ -6,9 +6,9 @@ permalink: /about.html
 
 # About me
 
-## Professional experience
+# Professional experience
 
-## Education
+# Education
 
 ### Overview
 **George Mason University, Fairfax, VA**  

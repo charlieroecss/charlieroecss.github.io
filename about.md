@@ -15,6 +15,8 @@ I graduated from [George Mason University](https://www2.gmu.edu) May 18, 2019 wi
 -- *GMU CSS*
 
 
+![CSS Ven Diagram](/images/CSS-Ven-Diagram.png)
+
 ## Interests
 
 You can use the [editor on GitHub](https://github.com/charlieroecss/charlieroecss.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

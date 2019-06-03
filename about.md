@@ -10,7 +10,7 @@ permalink: /about.html
 
 # Education
 
-### Overview
+#### Overview
 **George Mason University, Fairfax, VA**  
 *MA Computational Social Science, May 2019*  
 *GPA 3.97*

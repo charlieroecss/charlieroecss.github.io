@@ -11,12 +11,12 @@ permalink: /about.html
 ## Education
 
 ### Overview
-_George Mason University, Fairfax, VA_
-*MA Computational Social Science, May 2019*
+_George Mason University, Fairfax, VA_  
+*MA Computational Social Science, May 2019*  
 *GPA 3.97*
 
-_James Madison University, Harrisonburg, VA_
-*BA Sociology, May 2009*
+_James Madison University, Harrisonburg, VA_  
+*BA Sociology, May 2009*  
 *GPA 3.48*
 
 I graduated from [George Mason University](https://www2.gmu.edu) May 18, 2019 with a [Master of Arts in Interdisciplinary Studies](https://mais.gmu.edu/programs/la-mais-isin/overview) and a concentration in [computational social science](https://cos.gmu.edu/cds/computational-social-science/).

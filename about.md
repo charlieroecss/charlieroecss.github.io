@@ -7,6 +7,7 @@ permalink: /about.html
 ## Welcome to GitHub Pages
 
 Here is an ![image](/images/signatures.png)
+Format: ![Alt Text](url)
 
 You can use the [editor on GitHub](https://github.com/charlieroecss/charlieroecss.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

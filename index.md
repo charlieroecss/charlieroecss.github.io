@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Home
+permalink: /home.html
+---
 
 ## Welcome to GitHub Pages
 

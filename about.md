@@ -11,6 +11,11 @@ permalink: /about.html
 ## Education
 I graduated from [George Mason University](https://www2.gmu.edu) May 18, 2019 with a [Master of Arts in Interdisciplinary Studies](https://mais.gmu.edu/programs/la-mais-isin/overview) and a concentration in [computational social science](https://cos.gmu.edu/cds/computational-social-science/).
 
+> Computational Social Science (CSS) is the interdisciplinary science of complex 
+> social systems and their investigation through computational modeling and 
+> related techniques.
+
+
 ## Interests
 
 You can use the [editor on GitHub](https://github.com/charlieroecss/charlieroecss.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

@@ -37,7 +37,7 @@ I mainly used Python to model complex systems of interest and gather the related
 Language | Framework | Open Source / Proprietary
 -------- | --------- | -------------------------
 Python | [Mesa](https://github.com/projectmesa/mesa) | Open Source (GitHub)
-Python | [ABCE] (https://github.com/AB-CE/abce) | Open Source (GitHub)
+Python | [ABCE](https://github.com/AB-CE/abce) | Open Source (GitHub)
 NetLogo | [NetLogo](https://github.com/NetLogo/NetLogo) | Open Source (GitHub)
 Java | [MASON](https://cs.gmu.edu/~eclab/projects/mason/) | Open Source
 Java | [AnyLogic](https://www.anylogic.com) | Proprietary with free version

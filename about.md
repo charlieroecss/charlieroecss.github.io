@@ -18,12 +18,12 @@ My work included using Python and SQL to extract, clean, and analyze millions of
 **Eight 32 Group - April 2018 to December 2018**  
 *Chief Information Officer*  
 
-When I began working for Eight 32 Group ([832](https://www.eight32group.com)) it was fueled by pure aspiration from the CEO. We were trying to win a contract with a major client to perform emergency response training for their global workforce. My contribution included constructing and managing our client data management strategy as well as migrating the company from an assortment of communication platforms to a unified system to increase security and efficiency. I was also in charge of our cyber security policies and training.
+Eight 32 Group ([832](https://www.eight32group.com)) is an "enterprise resilience" provider, which means that it helps companies prevent, prepare for, and recover from life-threatening events. When I began working for 832 it was fueled by pure aspiration from the CEO. We were trying to win a contract with a major client to perform emergency response training for their global workforce. My contribution included constructing and managing our client data management strategy as well as migrating the company from an assortment of communication platforms to a unified system to increase security and efficiency. I was also in charge of our cyber security policies and training.
 
 **Accenture Federal Services - May 2012 to August 2018**  
 *Systems Engineering Consultant*  
 
-
+My time at Accenture was 
 
 
 # Education

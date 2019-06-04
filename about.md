@@ -8,9 +8,13 @@ permalink: /about.html
 
 # Professional experience
 
+**Securities and Exchange Commission - August 2018 to December 2018**  
+*Market Researcher - Academic Internship*  
+
+
+
 # Education
 
-#### Overview
 **George Mason University, Fairfax, VA**  
 *MA Computational Social Science, May 2019*  
 *GPA 3.97*
@@ -19,7 +23,7 @@ permalink: /about.html
 *BA Sociology, May 2009*  
 *GPA 3.48*
 
-I graduated from [George Mason University](https://www2.gmu.edu) May 2019 with a [Master of Arts in Interdisciplinary Studies](https://mais.gmu.edu/programs/la-mais-isin/overview) and a concentration in [computational social science](https://cos.gmu.edu/cds/computational-social-science/).
+I graduated from [George Mason University](https://www2.gmu.edu) May 2019 with a [Master of Arts in Interdisciplinary Studies](https://mais.gmu.edu/programs/la-mais-isin/overview) and a concentration in [computational social science](https://cos.gmu.edu/cds/computational-social-science/). Someday I may consider pursuing my PhD in CSS or a related field, but I want to refine an idea for a dissertation before going back for more education.
 
 "Computational Social Science (CSS) is the interdisciplinary science of complex social systems and their investigation through computational modeling and related techniques."
 -- *GMU CSS*
@@ -30,7 +34,7 @@ I graduated from [George Mason University](https://www2.gmu.edu) May 2019 with a
 
 My academic interests tended toward using Agent Based Models (ABM) to simulate complex economic and financial systems such as the causes of financial instability, the formation of economic classes, and the structural effects of equity exchanges.  
 
-ABMs are computational (as opposed to mathematical or analytical) models used to study complex, non-linear systems that have many heterogeneous, adaptive, interacting parts. The methodology has a relatively short history, but that is expected since computational tools are also relatively new (by computational I strictly mean computer-related). As computational power increases, so does the scope of ABM. However, the power of ABM can be seen in very simple, computationally trivial models, such as [Sugarscape](https://www.youtube.com/watch?v=4N6D5mMfe0A) or [segregation](https://www.youtube.com/watch?v=dnffIS2EJ30).  
+ABM are computational (as opposed to mathematical or analytical) models used to study complex, non-linear systems that have many heterogeneous, adaptive, interacting parts. The methodology has a relatively short history, but that is expected since computational tools are also relatively new (by computational I strictly mean computer-related). As computational power increases, so does the scope of ABM. However, the power of ABM can be seen in very simple, computationally trivial models, such as [Sugarscape](https://www.youtube.com/watch?v=4N6D5mMfe0A) or [segregation](https://www.youtube.com/watch?v=dnffIS2EJ30).  
 
 I mainly used Python to model complex systems of interest and gather the related data. However, I also used Java and Swift when computational speed and more efficient memory allocation was required. Currently, there are several open source frameworks and free software for ABM for those interested in a little help organizing and deploying models - see the table below:  
 
@@ -42,44 +46,10 @@ NetLogo | [NetLogo](https://github.com/NetLogo/NetLogo) | Open Source (GitHub)
 Java | [MASON](https://cs.gmu.edu/~eclab/projects/mason/) | Open Source
 Java | [AnyLogic](https://www.anylogic.com) | Proprietary with free version
 
+I am also familiar with social network analysis using the [NetworkX](https://networkx.github.io) package for Python, and statistical analysis using [R](https://www.r-project.org). If you are interested in viewing any of my work, please go to my [Projects](/projects.html) and [Examples](/examples.html) pages.  
 
-
+My undergraduate education was completed at [James Madison University](https://www.jmu.edu) in 2009 where I earned a BA in Sociology. My research there included critical analysis of deviant behaviors and their associated [medical diagnoses](https://www.tandfonline.com/doi/abs/10.1080/016396201750065009). For example, ADD/ADHD is not consistently diagnosed around the world, and there is still considerable disagreement about it in the U.S.  
 
 
 ## Interests
 
-You can use the [editor on GitHub](https://github.com/charlieroecss/charlieroecss.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/charlieroecss/charlieroecss.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

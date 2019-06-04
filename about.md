@@ -15,6 +15,14 @@ As an intern with the U.S. Securities and Exchange Commission ([SEC](https://www
 
 My work included using Python and SQL to extract, clean, and analyze millions of electronic messages sent from traders to exchanges to determine if there were any message patterns being used to exploit price differences at the exchanges by creating processing backlogs. I also researched some theoretical proposals for changing stock pricing from a discrete, $0.01 increment to a continuous price scale. The goal was to determine if any connection existed between the price and volume of a stock and its spread in basis point terms.  
 
+**Eight 32 Group - April 2018 to December 2018**  
+*Chief Information Officer*  
+
+When I began working for Eight 32 Group ([832](https://www.eight32group.com)) it was fueled by pure aspiration from the CEO. We were trying to win a contract with a major client to perform emergency response training for their global workforce. My contribution included constructing and managing our client data management strategy as well as migrating the company from an assortment of communication platforms to a unified system to increase security and efficiency. I was also in charge of our cyber security policies and training.
+
+**Accenture Federal Services - May 2012 to August 2018**  
+*Systems Engineering Consultant*  
+
 
 
 

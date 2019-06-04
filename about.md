@@ -25,7 +25,7 @@ I graduated from [George Mason University](https://www2.gmu.edu) May 18, 2019 wi
 -- *GMU CSS*
 
 
-![CSS Ven Diagram](/images/CSS-Ven-Diagram.png) --*GMU CSS*
+![CSS Ven Diagram](/images/CSS-Ven-Diagram.png) -- *GMU CSS*
 
 My academic interests tended toward using Agent Based Models (ABM) to simulate complex economic and financial systems such as the causes of financial instability, the formation of economic classes, and the structural effects of equity exchanges.  
 
@@ -36,7 +36,7 @@ I mainly used Python to model complex systems of interest and gather the related
 Language | Framework | Open Source / Proprietary
 -------- | --------- | -------------------------
 Python | [Mesa](https://github.com/projectmesa/mesa) | Open Source (GitHub)
-Python | [Agent Based Complete Economy] (https://github.com/AB-CE/abce) | Open Source (GitHub)
+Python | [Agent-Based-Complete-Economy] (https://github.com/AB-CE/abce) | Open Source (GitHub)
 NetLogo | [NetLogo](https://github.com/NetLogo/NetLogo) | Open Source (GitHub)
 Java | [MASON](https://cs.gmu.edu/~eclab/projects/mason/) | Open Source
 Java | [AnyLogic](https://www.anylogic.com) | Proprietary with free version

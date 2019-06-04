@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-permalink: /about.html
+title: Examples
+permalink: /examples.html
 ---
 
 # About me

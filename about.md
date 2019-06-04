@@ -11,9 +11,9 @@ permalink: /about.html
 **Securities and Exchange Commission - August 2018 to December 2018**  
 *Market Researcher - Academic Internship*  
 
-I took an internship with the U.S. Securities and Exchange Commission ([SEC](https://www.sec.gov)) in the Division of Economic and Risk Analysis ([DERA](https://www.sec.gov/dera)) because it offered an opportunity to dive deep into fine-grained detail of financial data in near real time. I was also able to work with some extremely talented economists and data scientists which helped me formulate my thesis for my master's degree.  
+As an intern with the U.S. Securities and Exchange Commission ([SEC](https://www.sec.gov)) in the Division of Economic and Risk Analysis ([DERA](https://www.sec.gov/dera)) I was able to dive deep into fine-grained detail of financial data in near real time. I was also able to work with some extremely talented economists and data scientists which helped me formulate my thesis for my master's degree.  
 
-My work included using Python to extract, clean, and analyze millions of electronic messages sent from traders to exchanges to determine if there were any message patterns being used to exploit price differences at the exchanges by creating processing backlogs. I also researched some theoretical proposals for changing stock pricing from a discrete, $0.01 increment to a continuous price scale. The goal was to determine if any connection existed between the price and volume of a stock and its spread in basis point terms.  
+My work included using Python and SQL to extract, clean, and analyze millions of electronic messages sent from traders to exchanges to determine if there were any message patterns being used to exploit price differences at the exchanges by creating processing backlogs. I also researched some theoretical proposals for changing stock pricing from a discrete, $0.01 increment to a continuous price scale. The goal was to determine if any connection existed between the price and volume of a stock and its spread in basis point terms.  
 
 
 

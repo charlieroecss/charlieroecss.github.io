@@ -27,9 +27,10 @@ I graduated from [George Mason University](https://www2.gmu.edu) May 18, 2019 wi
 
 ![CSS Ven Diagram](/images/CSS-Ven-Diagram.png) -- *GMU CSS*
 
+
 My academic interests tended toward using Agent Based Models (ABM) to simulate complex economic and financial systems such as the causes of financial instability, the formation of economic classes, and the structural effects of equity exchanges.  
 
-ABMs are computational (as opposed to mathematical or analytical) models used to study complex, non-linear systems that have many heterogeneous, adaptive, interacting parts. The methodology has roots in 
+ABMs are computational (as opposed to mathematical or analytical) models used to study complex, non-linear systems that have many heterogeneous, adaptive, interacting parts. The methodology has a relatively short history, but that is expected since computational tools are also relatively new (by computational I strictly mean computer-related). As computational power increases, so does the power of ABM.   
 
 I mainly used Python to model complex systems of interest and gather the related data. However, I also used Java and Swift when computational speed and more efficient memory allocation was required. Currently, there are several open source frameworks and free software for ABM for those interested in a little help organizing and deploying models - see the table below:  
 

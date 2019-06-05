@@ -14,9 +14,15 @@ The second chart shows that the model produces a realistic price history through
 
 ![Price Match](/images/PriceMatch.png) ![Fractal Price](/images/FractalPrice.png)  
 
-The figure below demonstrates some of the results from my thesis. The time-weighted quoted spread is essentially a measure of the average difference between the best price a trader could get for selling and the best price for buying. This is known as the bid-ask spread, and smaller spreads are considered to indicate higher market quality. You can see that as the maker-taker fee increases, the average spread decreases, and therefore market quality is enhanced in the presence of the fees and their associated rebates. However, this is controversial since some argue that the market quality gains are artificial and therefore misleading to market participants and regulators. Agent based models have the potential to increase our understanding of the complex causal relationships between trading behavior, market structure, and regulation.
+The figure below demonstrates some of the results from my thesis. The time-weighted quoted spread is essentially a measure of the average difference between the best price a trader could get for selling and the best price for buying. This is known as the bid-ask spread, and smaller spreads are considered an indication of higher market quality. You can see that as the maker-taker fee increases, the average spread decreases, and therefore market quality is enhanced in the presence of the fees and their associated rebates. However, this is controversial since some argue that the market quality gains are artificial and therefore misleading to market participants and regulators. Agent based models have the potential to increase our understanding of the complex causal relationships between trading behavior, market structure, and regulation.
 
-![Time Weighted Quoted Spread](/images/TWQS.png)
+![Time Weighted Quoted Spread](/images/TWQS.png)  
+
+# Social Network Analysis
+
+Social network analysis is the mathematical exploration of social ties. In this context, social ties can be represented by any relationship. For example, friendship, shared location, and age are all examples of how entities can be considered related. Below is an example of how the stocks included in the S&P 500 (as of 2006) can be visualized as a network with correlated returns as the relationship and each company's economic sector (dfined by [SIC](https://www.osha.gov/pls/imis/sic_manual.html) code) identified by unique colors. The circles are individual companies and the lines between them represent a significant correlation in their returns. The size of each circle is determined by the company's centrality, or overall connectedness in relation to the whole. Notice how the industries tend to cluster together. This clustering actually represents a relatively fragmented network, which in this case signals resilience and is good news for markets.
+
+![Stock Network](/images/stock_network.png)
 
 # Bank Reserves
 

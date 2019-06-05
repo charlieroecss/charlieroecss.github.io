@@ -1,10 +1,8 @@
 ---
 layout: post
-title: About
+title: About Me
 permalink: /about.html
 ---
-
-# About me
 
 # Professional experience
 

@@ -4,6 +4,12 @@ title: Examples
 permalink: /examples.html
 ---
 
+# Master's Thesis
+
+Regulating the stock market is a tremendous undertaking, and it is vital to its safety and success. Many new regulatory issues have arisen along with the prevalence of electronic trading. One of these issues is known as maker-taker fees, which are essentially a means for stock exchanges to incentivize traders to offer liquidity at their venue. These fees were initially regulated at the beginning of the rise of electronic trading, but many argue this regulation needs to be updated to keep up with the practices that have evolved regarding the use of the fees. My thesis describes an agent-based model with minimally intelligent traders interacting in an artificial stock market with maker-taker fees. The purpose is to shed light on the effects of maker-taker fees as well as provide insight into the usefulness of agent-based modeling as a supplemental tool for regulatory decision-making. Results from the study show that maker-taker fees positively affect traditional measurements of market quality, and that minimal intelligence is a viable assumption for traders when modelling the stock market as long as a realistic market structure is present. This research aims to be a step toward incorporating agent-based models into exploratory groundwork for regulatory decision-makers at the Securities and Exchange Commission and other financial market regulatory agencies.  
+
+![Price Match](/images/PriceMatch.png) ![Fractal Price](/images/FractalPrice.png)
+
 # Bank Reserves
 
 This is an example of a very simple agent based model designed to explore the effects on the wealth of a population as a function of its size and the amount of cash reserves banks are required to hold.  

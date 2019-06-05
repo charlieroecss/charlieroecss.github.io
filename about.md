@@ -23,7 +23,9 @@ Eight 32 Group ([832](https://www.eight32group.com)) is an "enterprise resilienc
 **Accenture Federal Services - May 2012 to August 2018**  
 *Systems Engineering Consultant*  
 
-At Accenture I 
+As a systems engineering consultant at Accenture, I helped clients visually understand their business processes so that they could make better decisions about system requirements. I also advised clients on how to implement their requirements based on cost and scope of impact. Often, a client would want to migrate their custom system implementation to a commercial system. During this process I would map out the integration process from the old to the new, which basically meant converting existing business processes into industry standards without losing any functionality.  
+
+I was also fortunate to work on some cyber security designs. 
 
 
 # Education

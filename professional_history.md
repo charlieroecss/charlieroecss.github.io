@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Professional History
-permalink: /about.html
+permalink: /professional_history.html
 ---
 
 # Professional experience

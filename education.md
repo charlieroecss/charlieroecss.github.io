@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education
-permalink: /about.html
+permalink: /education.html
 ---
 
 

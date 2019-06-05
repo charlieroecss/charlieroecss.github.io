@@ -23,13 +23,6 @@ twitter_username:
 github_username:  charlieroecss
 linkedin_username: itscharlieroe
 
-navbar-links:
-About Me: "about"
-Examples:
-    - Economics: "/examples.html"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-
 # Build settings
 markdown: kramdown
 theme: minima

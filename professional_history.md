@@ -26,3 +26,12 @@ As a systems engineering consultant at Accenture, I helped clients visually unde
 
 I was also fortunate to develop cyber security designs which spanned the entire organization. This involved a long process of identifying attack surfaces and quantifying risk at multiple organizational levels. I helped plan our response to a range of cyber incidents including how to recover to an operational status. 
 
+**The Motley Fool - January 2014 to April 2014**  
+*Frelance Writer*  
+
+This was an amazing opportunity to mix my interest in finance with my skill in writing. Being a freelance writer has its pros and cons, but a major benefit was the freedom to choose my topics as long as they were related to long-term investing. That means I could write about a specific company or industry, or just the advantages of long-term investing compared with trying to time the market. You can find my published articles [here](https://www.fool.com/author/12228/index.aspx) if you are interested. I had planned on writing for a long time, but when my mom was diagnosed with terminal cancer I put writing to the side, and haven't found the spare time to get back into it.
+
+**Avaya Government Solutions - April 2010 to May 2012**  
+*Software Tester*  
+
+This was my first full-time job out of college. I started out just clicking buttons on a screen trying to find bugs in the U.S. Courts' bankruptcy filing software. By the end of my time there I was helping write technical documentation, making small production code updates, and initiated the standardization of the software testing process.

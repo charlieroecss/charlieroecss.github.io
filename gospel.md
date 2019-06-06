@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Gospel of Jesus Christ
+title: Gospel
 permalink: /gospel.html
 ---
 

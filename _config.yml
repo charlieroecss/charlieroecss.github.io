@@ -30,11 +30,11 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - professional_history.html
-  - education.html
-  - examples.html
-  - projects.html
-  - index.html
+  - professional_history.md
+  - education.md
+  - examples.md
+  - projects.md
+  - index.md
 
 
 # Exclude from processing.

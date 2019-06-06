@@ -6,6 +6,9 @@ permalink: /projects.html
 
 # Network Analysis of Campaign Contributions
 
+<details><summary>Click to expand details.</summary>
+
+
 ```python
 import pandas as pd 
 import numpy as np
@@ -627,3 +630,4 @@ fit.power_law.plot_ccdf(ax=fig)
 ```python
 plt.hist(data.party_code)
 ```
+</details>

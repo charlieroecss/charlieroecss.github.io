@@ -6,4 +6,9 @@ permalink: /projects.html
 
 # Network Analysis of Campaign Contributions
 
-# Other...
+<details><summary>
+# Other...</summary>
+<p>
+Testing
+</p>
+</details>

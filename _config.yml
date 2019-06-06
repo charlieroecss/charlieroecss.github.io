@@ -16,7 +16,7 @@
 title: Charlie Roe
 email: charlie.a.roe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is about me, Charlie. 
+  . 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://charlieroecss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -28,6 +28,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - professional_history.html
+  - education.html
+  - examples.html
+  - projects.html
+  - index.html
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

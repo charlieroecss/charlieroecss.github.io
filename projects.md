@@ -6,7 +6,7 @@ permalink: /projects.html
 
 # Network Analysis of Campaign Contributions
 
-<details><summary><strong>Other...</strong></summary>
+<details><summary><h1>Other...</h1></summary>
 
 <p>
   ```python

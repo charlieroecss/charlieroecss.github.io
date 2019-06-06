@@ -8,7 +8,7 @@ permalink: /projects.html
 
 <details><summary>Click to expand details.</summary>
 
-
+<div markdown="1">
 ```python
 import pandas as pd 
 import numpy as np
@@ -630,4 +630,6 @@ fit.power_law.plot_ccdf(ax=fig)
 ```python
 plt.hist(data.party_code)
 ```
+</div>
+
 </details>

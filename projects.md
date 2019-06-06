@@ -6,6 +6,7 @@ permalink: /projects.html
 
 # Network Analysis of Campaign Contributions
 
+{::options parse_block_html="true" /}
 <details><summary>
 # Other...</summary>
 <p>

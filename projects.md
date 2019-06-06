@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects.html
+order: 4
 ---
 
 # About me

@@ -2,6 +2,7 @@
 layout: post
 title: Examples
 permalink: /examples.html
+order: 3
 ---
 
 # Master's Thesis

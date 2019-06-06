@@ -2,6 +2,7 @@
 layout: post
 title: Professional History
 permalink: /professional_history.html
+order: 1
 ---
 
 # Professional experience

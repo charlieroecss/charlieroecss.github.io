@@ -2,7 +2,6 @@
 layout: post
 title: Education
 permalink: /education.html
-order: 2
 ---
 
 
